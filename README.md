@@ -1,0 +1,1 @@
+This project is designed to simplify travel experiences by offering destination exploration, trip planning , user profiles , etc. Built with technologies like JS , HTML and CSS. This website ensures a seamless experience across devices with its responsive design.
